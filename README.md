@@ -1,2 +1,2 @@
-# Ken_Portfolio
-A data science portfolio of Ken Jee.
+# Conerlious_Portfolio
+A data science portfolio for Conerlious Sagandira.
