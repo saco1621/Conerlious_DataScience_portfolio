@@ -35,6 +35,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  
+   <url>
+    <loc>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-3/</loc>
+    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/</loc>
+    <lastmod>2020-05-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 
   <url>
     <loc>https://saco1621.github.io/Conerlious_Datascience_portfolio/categories/</loc>
