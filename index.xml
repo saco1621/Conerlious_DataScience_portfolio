@@ -29,6 +29,15 @@
       <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
     </item>
+	  
+    <item>
+      <title>Project 3: Revenue and Profit Analysis: Rickaby Hardware</title>
+      <link>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+
+      <guid>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-1/</guid>
+      <description> I created a revenue and profit analysis dashboard using MySQL and Tableau for ETL and data visualization. To achieve this, i used a star schema for data modeling. </description>
+    </item>
 
     <item>
       <title>Contact</title>
