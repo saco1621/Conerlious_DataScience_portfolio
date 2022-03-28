@@ -32,10 +32,10 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 	  
     <item>
       <title>Project 3: Revenue and Profit Analysis: Rickaby Hardware</title>
-      <link>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-1/</link>
+      <link>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-3/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
 
-      <guid>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-1/</guid>
+      <guid>https://saco1621.github.io/Conerlious_Datascience_portfolio/post/project-3/</guid>
       <description> I created a revenue and profit analysis dashboard using MySQL and Tableau for ETL and data visualization. To achieve this, i used a star schema for data modeling. </description>
     </item>
 
